@@ -2,5 +2,6 @@
 
 Para instalar o sistema use este código no terminal
 
-''''
-nom install react
+```
+npm install react
+```
